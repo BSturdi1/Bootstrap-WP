@@ -1,4 +1,4 @@
 # Bootstrap-WP
 Hi!
 
-This is a Bootstrap Landig Page.
+This is a Bootstrap Landing Page.
